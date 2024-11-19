@@ -1,1 +1,1 @@
-# py_ex_foundation
+# This repo is for making a progress on python topics.
